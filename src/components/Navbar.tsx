@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 
 import {
   Sheet,
-  SheetClose,
   SheetContent,
   SheetDescription,
   SheetFooter,
@@ -11,8 +10,6 @@ import {
   SheetTrigger,
 } from "./ui/sheet";
 
-import { Input } from "./ui/input";
-import { Label } from "@radix-ui/react-menubar";
 import { Button } from "./ui/button";
 
 
