@@ -2,7 +2,7 @@ import { Button } from "./ui/button"
 
 function AboutMe() {
   return (
-    <div>
+    <div className="mt-40">
         <img src="https://img.freepik.com/free-photo/vintage-camera-pencil-open-laptop-twig-isolated-white-background_23-2147979091.jpg?t=st=1734188691~exp=1734192291~hmac=7b7f79e13cbbeb536c86f64d6b56b7d5a184897b450f96c146815e8ca75a99b3&w=996" className="w-full h-screen absolute" alt="" />
         <img src="/src/assets/Himanshu.png" className="relative rounded-e-full" alt="" />
         <div className="relative md:-mt-[400px] md:ml-[700px] ">
